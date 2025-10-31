@@ -17,7 +17,7 @@
 
 <h2>🏅 Certifications</h2>
 
-- [<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge" alt="Security+ Badge" />](https://www.credly.com/badges/6099d26f-9e1b-4e74-a8cd-358681507e00/public_url))  
+- [<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge" alt="Security+ Badge" />](https://www.credly.com/badges/6099d26f-9e1b-4e74-a8cd-358681507e00/public_url)
 
 - [<img src="https://img.shields.io/badge/CompTIA-Network%2B-blue?style=for-the-badge" alt="Network+ Badge" />](https://www.credly.com/badges/2b59da01-17a0-4721-a9c2-cccd29d8009e/public_url)  
 
