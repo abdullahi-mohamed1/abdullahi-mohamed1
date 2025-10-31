@@ -17,7 +17,7 @@
 
 <h2>🏅 Certifications</h2>
 
-- [<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge" alt="Security+ Badge" />](https://github.com/abdullahi-mohamed1/Certificates/blob/main/CompTIA_SecurityPlus_Certificate.pdf)  
+- [<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge" alt="Security+ Badge" />](https://www.credly.com/badges/6099d26f-9e1b-4e74-a8cd-358681507e00/public_url))  
   🧾 [Verify Security+ Credential](https://www.credly.com/badges/6099d26f-9e1b-4e74-a8cd-358681507e00/public_url)
 
 - [<img src="https://img.shields.io/badge/CompTIA-Network%2B-blue?style=for-the-badge" alt="Network+ Badge" />](https://github.com/abdullahi-mohamed1/Certificates/blob/main/CompTIA_NetworkPlus_Certificate.pdf)  
