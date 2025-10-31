@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdullahi 👋</h1>
+<h1 align="center">Hi, I'm Abdullahi! </h1>
 <h3 align="center">Cybersecurity Student | Security+ | Network+ | Building Defensive Labs & Blue Team Skills</h3>
 <p align="center">
   <a href="https://linkedin.com/in/abdullahi-mohamed1">LinkedIn</a> •
