@@ -8,10 +8,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- **[Active Directory Homelab](https://github.com/abdullahi-mohamed1/LABURL)**  
+- **[Active Directory Homelab](https://github.com/abdullahimo1/ActiveDirectoryLab)**  
   Built a Windows Server–based AD environment with domain users, group policies, and shared resources for authentication and privilege escalation practice.
 
-- **[Azure SOC + Honeypot Lab](https://github.com/abdullahi-mohamed1/LABURL)**  
+- **[Azure SOC + Honeypot Lab](https://github.com/abdullahimo1/Azure-SOC-Lab)**  
   Designed and deployed a SIEM using Microsoft Sentinel with honeypot telemetry ingestion, analyzing real-world attack data for incident detection.
 
 
