@@ -7,6 +7,8 @@
 </p>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
+- **[Nessus Vulnerability Scanning & Remediation Lab](https://https://github.com/abdullahimo1/Nessus-Vulnerability-Lab)**  
+  A hands-on vulnerability management project using Nessus Essentials in a multi-VM enterprise simulation.
 
 - **[Active Directory Homelab](https://github.com/abdullahimo1/ActiveDirectoryLab)**  
   Built a Windows Server–based AD environment with domain users, group policies, and shared resources for authentication and privilege escalation practice.
